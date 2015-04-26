@@ -58,13 +58,13 @@ tGravityAccMeanZ
 tGravityAccStdX  
 [-1, 1] the standard deviation of time domain gravity acceleration in X axis  
 
-tGravityAccStdY
+tGravityAccStdY   
 [-1, 1] the standard deviation of time domain gravity acceleration in Y axis  
 
 tGravityAccStdZ  
 [-1, 1] the standard deviation of time domain gravity acceleration in Z axis
 
-tBodyAccJerkMeanX
+tBodyAccJerkMeanX  
 [-1, 1] the mean of time domain body acceleration derivative in X axis  
 
 tBodyAccJerkMeanY  
@@ -235,7 +235,7 @@ fBodyAccMagMean
 fBodyAccMagStd  
 [-1, 1] the standard deviation of frequency domain body acceleration magnitude  
 
-fBodyAccMagMeanFreqn
+fBodyAccMagMeanFreq  
 [-1, 1] the mean of frequency domain body acceleration magnitude frequency  
 
 fBodyBodyAccJerkMagMean  
